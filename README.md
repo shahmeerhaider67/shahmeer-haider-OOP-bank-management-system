@@ -1,4 +1,4 @@
-Hello this is me Shahmeer Haider and this is my Todo List Project :)
+Hello this is me Shahmeer Haider and this is my OOP Bank Management Project :)
 
 Commands used in it :
 
